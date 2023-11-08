@@ -1,6 +1,6 @@
 #!\bin\bash
 read n
-sum=1
+sum= 1
 while [ $n -gt 0 ]
 do
 fact= `expr $fact \* $n`
